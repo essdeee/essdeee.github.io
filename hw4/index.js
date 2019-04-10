@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'As Queequeg and I are now fairly embarked in this business of whaling; and as this business of whaling has somehow come to be regarded among landsmen as a rather unpoetical and disreputable pursuit; therefore, I am all anxiety to convince ye, ye landsmen, of the injustice hereby done to us hunters of whales.',
+      '‘Are you—are you fond—of—of dogs?’ The Mouse did not answer, so Alice went on eagerly: ‘There is such a nice little dog near our house I should like to show you!',
   'example2':
-      'Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, "and what is the use of a book," thought Alice "without pictures or conversations?"',
+      'For example,—after a weary and perilous chase and capture of a whale, the body may get loose from the ship by reason of a violent storm; and drifting far away to leeward, be retaken by a second whaler, who, in a calm, snugly tows it alongside, without risk of life or line.',
   'example3':
-      'Better to reign in Hell, then serve in Heav’n.',
+      'While she spoke, an involuntary glance showed her Darcy, with a heightened complexion, earnestly looking at her, and his sister overcome with confusion, and unable to lift up her eyes.',
   'example4':
-      'Double, double toil and trouble; Fire burn, and cauldron bubble.',
+      'Only the defeated and deserters go to the wars, cowards that run away and enlist.',
 };
 
 function status(statusText) {
